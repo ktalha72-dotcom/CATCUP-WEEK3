@@ -1,0 +1,29 @@
+/******************************************************************************
+
+NAME: KENNY JAY TALHA
+CRS: BSIT-1D 
+
+*******************************************************************************/
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Digital ID Card</title>
+</head>
+<body>
+
+  <header>
+    <h1>kenny jay talha</h1>
+  </header>
+
+  <main>
+    <p>Course: BS Information Technology</p>
+    <p>Dream Job: IT TEACHER</p>
+  </main>
+
+  <footer>
+    <a href="https://github.com/yourusername">My GitHub</a>
+  </footer>
+
+</body>
+</html>
